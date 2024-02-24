@@ -1,0 +1,12 @@
+1.numpy
+2.pandas
+3.seaborn
+4.sklearn
+5.matplotlib
+6.cv2
+7.tensorflow
+8.keras
+9.widgets
+10.io
+11.os
+12.PIL
